@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Mnist
+/MatrixMath/bin/Debug/net6.0
+/MatrixMath/obj
+/TestNN2/bin/Debug/net6.0
+/TestNN2/obj
